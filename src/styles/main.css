@@ -3,7 +3,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-color: #e3f2fd;
+    background-color: #4a5964;
     color: #fff;
 }
 
@@ -114,7 +114,7 @@ header .column span {
 }
 
 .piano-keys .black.active {
-    box-shadow: inset -5px 5px 10px rgba(255, 255, 255, 0.1);
+    box-shadow: inset -5px 5px 10px rgba(14, 13, 13, 0.1);
     background: linear-gradient(to bottom #000, #434343);
 }
 
